@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 ## 01 — Descripción General
-Trabajo integrador de **Electrónica de Potencia (EPW103-1, ITM)** enfocado en el diseño, auditoría de hardware, modelado matemático, simulación y validación experimental de un **convertidor DC-DC Boost sincrónico de 75 W** ($12\text{ V}_{\text{DC}} \rightarrow 36\text{ V}_{\text{DC}}$, $f_{\text{sw}} = 30\text{ kHz}$) sobre la PCB estandarizada `Boost_Converter_sch v4` / `Boost_Converter_bdr v3`.
+Trabajo integrador de **Electrónica de Potencia (EPW103-1, ITM)** enfocado en el diseño, auditoría de hardware, modelado matemático, simulación y validación experimental de un **convertidor DC-DC Boost sincrónico de 75 W** sobre la PCB estandarizada `Boost_Converter_sch v4` / `Boost_Converter_bdr v3`.
 
 El control en cascada digital (lazo interno de corriente y lazo externo de tensión) mitiga la fase no mínima asociada al cero en el semiplano derecho (**RHPZ**, $873.1\text{ Hz}$ con $L_0 = 350\ \mu\text{H}$ sin polarización DC) y amortigua la resonancia del filtro LC.
 
@@ -22,7 +22,7 @@ El control en cascada digital (lazo interno de corriente y lazo externo de tensi
 ## 03 — Ficha Técnica y Resultados
 | Parámetro / Resultado | Valor / Observación |
 | :--- | :--- |
-| **Conversión nominal** | $12\text{ V}_{\text{DC}} \rightarrow 36\text{ V}_{\text{DC}}$, $75\text{ W}$ de diseño |
+| **Conversión nominal** | 12 V, 36 V, 75 W de diseño |
 | **Frecuencia de conmutación** | $f_{\text{sw}} = 30\text{ kHz}$ (PWM LEDC, 11 bits) |
 | **Periodo de control multirrata** | $T_s = 150\ \mu\text{s}$ (corriente) · $T_v = 600\ \mu\text{s}$ (tensión) |
 | **Respuesta en modelo MATLAB** | Establecimiento $\sim 17\text{ ms}$ y sobreimpulso $\sim 0.6\%$ ($C_o = 220\ \mu\text{F}$, $T_d = 150\ \mu\text{s}$, filtro $3\text{ kHz}$) |
