@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boost Sincrónico 75W (12V → 36V) con Control en Doble Lazo
+title: Boost Sincrónico 75W (12V to 36V) con Control en Doble Lazo
 description: Modelado en espacio de estados, control PI multirrata en ESP32 y validación experimental para acople de bus DC.
 img: assets/img/1.jpg
 importance: 1
