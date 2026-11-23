@@ -31,3 +31,4 @@ El control en cascada digital (lazo interno de corriente y lazo externo de tensi
 
 ## 04 — Seguridad y Buenas Prácticas
 * Verificar polaridad y orientaciones antes de energizar, limitar tensión y corriente en pruebas de banco y cuidar las etapas de sensado, disparo y aislamiento.
+.
