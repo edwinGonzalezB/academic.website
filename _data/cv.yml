@@ -22,7 +22,7 @@ cv:
         location: Medellín, Colombia
         start_date: 2021
         end_date: Presente
-        date: "2021 - Presente"
+        date: "2016-02 - Presente"
         highlights:
           - Formación en electrónica de potencia, máquinas eléctricas, matemáticas especiales y control aplicado.
           - Proyecto integrador de convertidor DC-DC Boost sincrónico de 75 W (12 V a 36 V) con control PI en cascada en ESP32.
