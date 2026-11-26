@@ -15,48 +15,40 @@ cv:
     countryCode: CO
 
   sections:
-    Educación:
+    education:
       - institution: Institución Universitaria ITM
         area: Ingeniería en Electrónica
-        studyType: Pregrado
+        degree: Pregrado
         location: Medellín, Colombia
-        summary: Formación avanzada en electrónica de potencia, máquinas eléctricas, matemáticas especiales y control aplicado.
+        start_date: 2021
+        end_date: En curso
         highlights:
+          - Formación avanzada en electrónica de potencia, máquinas eléctricas, matemáticas especiales y control aplicado.
           - Diseño, modelado en espacio de estados y validación experimental de convertidores DC-DC conmutados y lazos de control digital.
 
-    Experiencia Técnica:
-      - name: Mantenimiento de Maquinaria Industrial y Diagnóstico Eléctrico
-        position: Especialista Técnico Industrial
+    experience:
+      - company: Sector Industrial y Gráfico
+        position: Especialista Técnico Industrial — Mantenimiento y Diagnóstico Eléctrico
         location: Medellín, Colombia
+        start_date: 2020
+        end_date: Presente
         summary: Diagnóstico eléctrico, neumático y de circuitos de control en equipos industriales de impresión digital de gran formato (sublimación y DTF) y calandras térmicas.
         highlights:
           - Localización sistemática de fallas en tableros eléctricos, relés de seguridad, etapas de potencia, sensores y tarjetas electrónicas.
           - Configuración de flujos de producción RIP y generación de perfiles de color ICC para entornos industriales.
 
-    Proyectos Destacados:
+    projects:
       - name: Convertidor DC-DC Boost Sincrónico de 75 W (12 V a 36 V) con Control en Doble Lazo
+        date: 2026
         summary: Trabajo integrador de Electrónica de Potencia (EPW103-1, ITM) basado en modelado en espacio de estados, simulación en MATLAB/PSIM e implementación digital en ESP32.
         highlights:
           - Lazos PI discretos multirrata en ESP32 (Núcleo 1 para control a Ts = 150 µs en corriente y Tv = 600 µs en tensión; Núcleo 0 para telemetría) mitigando el cero en el semiplano derecho (RHPZ).
           - Validación experimental en banco de pruebas con etapa sincrónica IRFZ44N, driver IR2110, sensor ACS712 y mediciones en osciloscopio R&S RTC1002.
 
-    Habilidades Técnicas:
-      - name: Electrónica de Potencia y Control
-        keywords:
-          - Modelado en espacio de estados
-          - Convertidores DC-DC (Boost sincrónico)
-          - Control en cascada PI/PID
-          - MATLAB (sisotool)
-          - PSIM
-      - name: Sistemas Embebidos y Programación
-        keywords:
-          - C/C++ en ESP32
-          - FreeRTOS (ejecución multirrata y doble núcleo)
-          - PWM de alta frecuencia
-          - Adquisición y acondicionamiento de señales
-      - name: Diagnóstico Industrial y Colorimetría
-        keywords:
-          - Diagnóstico eléctrico y de control
-          - Instrumentación y osciloscopio
-          - Mantenimiento de impresoras industriales y calandras
-          - Perfilación ICC y flujos RIP
+    skills:
+      - label: Electrónica de Potencia y Control
+        details: Modelado en espacio de estados, convertidores DC-DC (Boost sincrónico), control en cascada PI/PID, MATLAB (sisotool), PSIM.
+      - label: Sistemas Embebidos y Programación
+        details: C/C++ en ESP32, FreeRTOS (ejecución multirrata y doble núcleo), PWM de alta frecuencia, adquisición y acondicionamiento de señales.
+      - label: Diagnóstico Industrial y Colorimetría
+        details: Diagnóstico eléctrico y de control, instrumentación y osciloscopio, mantenimiento de impresoras industriales y calandras, perfilación ICC y flujos RIP.
