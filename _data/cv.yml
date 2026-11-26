@@ -20,7 +20,7 @@ cv:
         area: Ingeniería en Electrónica
         degree: Pregrado
         location: Medellín, Colombia
-        start_date: 2021-02
+        start_date: 2016-08
         end_date: present
         summary: Formación en electrónica de potencia, máquinas eléctricas, matemáticas especiales y control aplicado.
         highlights:
@@ -29,15 +29,15 @@ cv:
         area: Tecnología en Electrónica
         degree: Tecnólogo en Electrónica
         location: Medellín, Colombia
-        start_date: 2016-02
-        end_date: 2020-12
+        start_date: 2013-06
+        end_date: 2016-06
         summary: Formación tecnológica con proyectos académicos y prácticos en asignaturas como PLC, control, instrumentación y electrónica industrial.
 
     Experience:
       - company: MECYS S.A.S.
         position: Técnico Especialista en Maquinaria Industrial y Perfiles de Color
         location: Medellín, Colombia
-        start_date: 2015-01
+        start_date: 2016-08
         end_date: present
         summary: Más de 10 años de experiencia en diagnóstico eléctrico y electrónico, mantenimiento de maquinaria industrial de impresión y calandras, perfilación de color y soporte en ferias del sector.
         highlights:
