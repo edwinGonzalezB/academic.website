@@ -56,9 +56,24 @@ cv:
           - Validación experimental en banco de pruebas con etapa sincrónica IRFZ44N, driver IR2110, sensor ACS712 y mediciones en osciloscopio R&S RTC1002.
 
     Skills:
-      - label: Marcas y Software Industrial
-        details: Mimaki (certificado), RasterLink (certificado), MS Italy (certificado), Monti Antonio SpA (certificado), Fedar (capacitado), Flora (capacitado), NeoStampa y perfiles de color multimarca.
-      - label: Electrónica, Control y PLC
-        details: Tecnólogo en Electrónica (ITM), proyectos en PLC, control aplicado, modelado en espacio de estados, control PI/PID, ESP32, MATLAB (sisotool) y PSIM.
-      - label: Sector Ferial y Mantenimiento
-        details: Más de 10 años de experiencia en campo, 10 ediciones de Colombiatex, Inexmoda, Nextech, diagnóstico eléctrico/electrónico y mantenimiento de maquinaria industrial.
+      - name: Perfil Profesional y Trabajo en Equipo
+        keywords:
+          - Aprendizaje continuo y capacitación constante
+          - Toma de decisiones activa en campo y taller
+          - Trabajo en equipo y escucha activa de opiniones
+          - Enfoque metódico y comunicación efectiva
+          - Capacidad física para transporte de maquinaria y desmontajes
+      - name: Maquinaria de Impresión, Calandras y Colorimetría
+        keywords:
+          - Técnico certificado en equipos Mimaki y software RasterLink
+          - Técnico certificado en maquinaria MS Italy y Monti Antonio SpA
+          - Técnico capacitado en equipos Fedar y Flora
+          - Elaboración de perfiles de color multimarca y manejo de NeoStampa
+          - Diagnóstico eléctrico, electrónico, neumático y de control
+      - name: Electrónica, Control y Sistemas Embebidos
+        keywords:
+          - Tecnólogo en Electrónica y estudiante de Ingeniería en Electrónica (ITM)
+          - Desarrollo de proyectos con PLC y control aplicado
+          - Modelado en espacio de estados y control PI/PID en ESP32 (FreeRTOS y PWM)
+          - Simulación y análisis en MATLAB (sisotool) y PSIM
+      
