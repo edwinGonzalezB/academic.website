@@ -1,6 +1,6 @@
 cv:
   name: Edwin González Bolívar
-  label: Tecnólogo y Estudiante de Ingeniería en Electrónica (ITM) | Técnico Especialista Industrial (+10 años)
+  label: Tecnólogo y Estudiante de Ingeniería en Electrónica (ITM) | Especialista Técnico Industrial
   location: Medellín, Antioquia, Colombia
   image: ""
   summary: Tecnólogo en Electrónica y estudiante de Ingeniería en Electrónica en la Institución Universitaria ITM, con más de 10 años de experiencia en MECYS S.A.S. en diagnóstico eléctrico y electrónico, mantenimiento de maquinaria industrial de impresión digital y termofijación, gestión de perfiles de color con NeoStampa y RasterLink, y control en sistemas embebidos (ESP32) y PLC. Participación en 10 ediciones de Colombiatex y ferias del sector como Inexmoda y Nextech.
@@ -15,53 +15,50 @@ cv:
     countryCode: CO
 
   sections:
-    education:
+    Education:
       - institution: Institución Universitaria ITM
         area: Ingeniería en Electrónica
-        degree: Pregrado en curso
+        degree: Pregrado
         location: Medellín, Colombia
-        start_date: 2021
-        end_date: Presente
-        date: "2016-02 - Presente"
+        start_date: 2021-02
+        end_date: present
+        summary: Formación en electrónica de potencia, máquinas eléctricas, matemáticas especiales y control aplicado.
         highlights:
-          - Formación en electrónica de potencia, máquinas eléctricas, matemáticas especiales y control aplicado.
           - Proyecto integrador de convertidor DC-DC Boost sincrónico de 75 W (12 V a 36 V) con control PI en cascada en ESP32.
       - institution: Institución Universitaria ITM
         area: Tecnología en Electrónica
         degree: Tecnólogo en Electrónica
         location: Medellín, Colombia
-        date: "Tecnólogo en Electrónica"
-        highlights:
-          - Desarrollo de proyectos académicos y prácticos en asignaturas como PLC, control, instrumentación y electrónica industrial.
+        start_date: 2016-02
+        end_date: 2020-12
+        summary: Formación tecnológica con proyectos académicos y prácticos en asignaturas como PLC, control, instrumentación y electrónica industrial.
 
-    experience:
+    Experience:
       - company: MECYS S.A.S.
-        position: Técnico Especialista en Maquinaria Industrial y Perfiles de Color (+10 años)
+        position: Técnico Especialista en Maquinaria Industrial y Perfiles de Color
         location: Medellín, Colombia
-        start_date: 2015
-        end_date: Presente
-        date: "2015 - Presente"
+        start_date: 2015-01
+        end_date: present
+        summary: Más de 10 años de experiencia en diagnóstico eléctrico y electrónico, mantenimiento de maquinaria industrial de impresión y calandras, perfilación de color y soporte en ferias del sector.
         highlights:
-          - Más de 10 años de trayectoria en MECYS S.A.S. en soporte técnico especializado, diagnóstico, mantenimiento y perfilación de color en equipos industriales de impresión digital y calandras térmicas.
           - Técnico certificado en equipos de impresión Mimaki y software RasterLink, así como en maquinaria MS Italy y Monti Antonio SpA.
           - Técnico capacitado en equipos Fedar y Flora, y especialista en realización de perfiles de color para múltiples marcas y operación de NeoStampa.
-          - Participación en 10 ediciones de Colombiatex y ferias del sector como Inexmoda y Nextech, apoyando demostraciones técnicas, puesta a punto de maquinaria y soluciones de producción.
+          - Participación en 10 ediciones de Colombiatex y ferias como Inexmoda y Nextech, apoyando demostraciones técnicas, puesta a punto y soluciones de producción.
           - Diagnóstico de fallas eléctricas, electrónicas, neumáticas y de control en impresoras de gran formato, calandras térmicas y sistemas con PLC.
 
-    projects:
+    Projects:
       - name: Convertidor DC-DC Boost Sincrónico de 75 W (12 V a 36 V) con Control en Doble Lazo
-        start_date: 2026
-        end_date: 2026
-        date: "2026"
+        start_date: 2026-08
+        end_date: 2026-11
+        summary: Trabajo integrador de Electrónica de Potencia (EPW103-1, ITM) basado en modelado en espacio de estados, simulación en MATLAB/PSIM e implementación digital en ESP32.
         highlights:
-          - Trabajo integrador de Electrónica de Potencia (EPW103-1, ITM) basado en modelado en espacio de estados, simulación en MATLAB/PSIM e implementación digital en ESP32.
           - Lazos PI discretos multirrata en ESP32 (Núcleo 1 para control en corriente y tensión; Núcleo 0 para telemetría) mitigando el cero en el semiplano derecho (RHPZ).
           - Validación experimental en banco de pruebas con etapa sincrónica IRFZ44N, driver IR2110, sensor ACS712 y mediciones en osciloscopio R&S RTC1002.
 
-    skills:
-      - label: Marcas y Software Industrial (MECYS S.A.S.)
+    Skills:
+      - label: Marcas y Software Industrial
         details: Mimaki (certificado), RasterLink (certificado), MS Italy (certificado), Monti Antonio SpA (certificado), Fedar (capacitado), Flora (capacitado), NeoStampa y perfiles de color multimarca.
       - label: Electrónica, Control y PLC
         details: Tecnólogo en Electrónica (ITM), proyectos en PLC, control aplicado, modelado en espacio de estados, control PI/PID, ESP32, MATLAB (sisotool) y PSIM.
       - label: Sector Ferial y Mantenimiento
-        details: Más de 10 años en MECYS S.A.S., 10 ediciones de Colombiatex, Inexmoda, Nextech, diagnóstico eléctrico/electrónico y mantenimiento de maquinaria industrial.
+        details: Más de 10 años de experiencia en campo, 10 ediciones de Colombiatex, Inexmoda, Nextech, diagnóstico eléctrico/electrónico y mantenimiento de maquinaria industrial.
