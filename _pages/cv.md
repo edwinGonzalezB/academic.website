@@ -10,7 +10,7 @@ description: Formación académica en Ingeniería en Electrónica (ITM), experie
 ## Información de Contacto
 
 * **Nombre:** Edwin González Bolívar
-* **Perfil:** Tecnólogo y Estudiante de Ingeniería en Electrónica (ITM) | Especialista Técnico Industrial
+* **Perfil:** Tecnólogo y Estudiante de Ingeniería en Electrónica (ITM) — Especialista Técnico Industrial
 * **Ubicación:** Medellín, Antioquia, Colombia
 * **GitHub:** [edwinGonzalezB](https://github.com/edwinGonzalezB)
 
