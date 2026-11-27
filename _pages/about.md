@@ -27,14 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-¡Hola! Soy **Edwin González Bolívar**, estudiante de **Ingeniería Electrónica** en la **Institución Universitaria ITM** (Medellín, Colombia), enfocado en **electrónica de potencia**, **control aplicado** y **sistemas embebidos**, con experiencia práctica en diagnóstico eléctrico, mantenimiento de maquinaria industrial y gestión de color[cite: 14, 53].
+¡Hola! Soy **Edwin González Bolívar**, estudiante de **Ingeniería Electrónica** en la **Institución Universitaria ITM** (Medellín, Colombia), enfocado en **electrónica de potencia**, **control aplicado** y **sistemas embebidos**, con experiencia práctica en diagnóstico eléctrico, mantenimiento de maquinaria industrial y gestión de color.
 
 ### Áreas de Interés
-* **Electrónica de Potencia y Control:** Modelado en espacio de estados, convertidores DC-DC (Boost sincrónico), lazos de control en cascada PI multirrata y análisis de estabilidad (MATLAB / PSIM)[cite: 15, 24].
-* **Sistemas Embebidos y Tiempo Real:** Programación en C/C++ en ESP32 con ejecución multirrata, adquisición de señales y control digital[cite: 24, 36].
+* **Electrónica de Potencia y Control:** Modelado en espacio de estados, convertidores DC-DC (Boost sincrónico), lazos de control en cascada PI multirrata y análisis de estabilidad (MATLAB / PSIM).
+* **Sistemas Embebidos y Tiempo Real:** Programación en C/C++ en ESP32 con ejecución multirrata, adquisición de señales y control digital.
 * **Mantenimiento Industrial y Colorimetría:** Diagnóstico eléctrico y de control en equipos industriales y flujos de perfilación de color.
 
 ### Objetivos Actuales
-* [x] Desarrollar y validar el control en doble lazo para un convertidor DC-DC Boost sincrónico de 75 W (12 V a 36 V) sobre ESP32[cite: 14, 15].
-* [x] Publicar el portafolio académico y técnico en GitHub Pages con la plantilla al-folio[cite: 2, 7].
-* [ ] Consolidar la documentación de proyectos, simulaciones y hoja de vida en el sitio[cite: 10].
+* [x] Desarrollar y validar el control en doble lazo para un convertidor DC-DC Boost sincrónico de 75 W (12 V a 36 V) sobre ESP32.
+* [x] Publicar el portafolio académico y técnico en GitHub Pages con la plantilla al-folio.
+* [x] Consolidar la documentación de proyectos, simulaciones y hoja de vida en el sitio.
+* [x] Culminar mi carrera con exito.
