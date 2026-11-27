@@ -1,11 +1,7 @@
 ---
+published: false
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
-importance: 3
-category: work
+title: project 3
 ---
 
 Every project has a beautiful feature showcase page.
