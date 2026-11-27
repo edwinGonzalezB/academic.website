@@ -15,7 +15,7 @@ cv:
     countryCode: CO
 
   sections:
-    Education:
+    Educación:
       - institution: Institución Universitaria ITM
         area: Ingeniería en Electrónica
         degree: Pregrado
@@ -33,7 +33,7 @@ cv:
         end_date: 2016-06
         summary: Formación tecnológica con proyectos académicos y prácticos en asignaturas como PLC, control, instrumentación y electrónica industrial.
 
-    Experience:
+    Experiencia:
       - company: MECYS S.A.S.
         position: Técnico Especialista en Maquinaria Industrial y Perfiles de Color
         location: Medellín, Colombia
@@ -46,7 +46,7 @@ cv:
           - Participación en 10 ediciones de Colombiatex y ferias como Inexmoda y Nextech, apoyando demostraciones técnicas, puesta a punto y soluciones de producción.
           - Diagnóstico de fallas eléctricas, electrónicas, neumáticas y de control en impresoras de gran formato, calandras térmicas y sistemas con PLC.
 
-    Projects:
+    Proyectos:
       - name: Convertidor DC-DC Boost Sincrónico de 75 W (12 V a 36 V) con Control en Doble Lazo
         start_date: 2026-08
         end_date: 2026-11
@@ -55,7 +55,7 @@ cv:
           - Lazos PI discretos multirrata en ESP32 (Núcleo 1 para control en corriente y tensión; Núcleo 0 para telemetría) mitigando el cero en el semiplano derecho (RHPZ).
           - Validación experimental en banco de pruebas con etapa sincrónica IRFZ44N, driver IR2110, sensor ACS712 y mediciones en osciloscopio R&S RTC1002.
 
-    Skills:
+    Habilidades:
       - name: Perfil Profesional y Trabajo en Equipo
         keywords:
           - Aprendizaje continuo y capacitación constante
@@ -76,4 +76,3 @@ cv:
           - Desarrollo de proyectos con PLC y control aplicado
           - Modelado en espacio de estados y control PI/PID en ESP32 (FreeRTOS y PWM)
           - Simulación y análisis en MATLAB (sisotool) y PSIM
-      
