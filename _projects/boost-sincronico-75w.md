@@ -54,8 +54,19 @@ El control en cascada digital (lazo interno de corriente y lazo externo de tensi
   <div class="col-sm mt-3 mt-md-0">
     <img src="{{ '/assets/visualizacionenpantalla.jpeg' | relative_url }}" alt="Visualización en pantalla y telemetría" class="img-fluid rounded z-depth-1" />
   </div>
-
 </div>
 <div class="caption">
-  Evidencias del montaje experimental, visualización en pantalla y circuito/simulación del prototipo.
+  Izquierda: Montaje físico en banco de pruebas. Derecha: Visualización en pantalla y telemetría.
+</div>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="{{ '/assets/simulacion.jpg' | relative_url }}" alt="Simulación del convertidor DC-DC Boost de 75 W" class="img-fluid rounded z-depth-1" />
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="{{ '/assets/imagen1.jpeg' | relative_url }}" alt="Pruebas experimentales del prototipo en laboratorio" class="img-fluid rounded z-depth-1" />
+  </div>
+</div>
+<div class="caption">
+  Izquierda: Simulación del convertidor. Derecha: Evidencia experimental en laboratorio.
 </div>
