@@ -2,7 +2,7 @@
 layout: page
 title: Boost Sincrónico 75W (12V to 36V) con Control en Doble Lazo
 description: Modelado en espacio de estados, control PI multirrata en ESP32 y validación experimental para acople de bus DC.
-img: assets/img/imagen1.jpeg
+img: assets/pcb3d.jpg
 importance: 1
 category: Electrónica de Potencia y Control
 related_publications: false
@@ -37,10 +37,10 @@ El control en cascada digital (lazo interno de corriente y lazo externo de tensi
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    <img src="{{ '/assets/img/boost_converter_2d.jpg' | relative_url }}" alt="Layout 2D de la PCB" class="img-fluid rounded z-depth-1" />
+    <img src="{{ '/assets/pcb2d.jpg' | relative_url }}" alt="Layout 2D de la PCB" class="img-fluid rounded z-depth-1" />
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <img src="{{ '/assets/img/boost_converter_3d.jpg' | relative_url }}" alt="Modelo 3D de la PCB" class="img-fluid rounded z-depth-1" />
+    <img src="{{ '/assets/pcb3d.jpg' | relative_url }}" alt="Modelo 3D de la PCB" class="img-fluid rounded z-depth-1" />
   </div>
 </div>
 <div class="caption">
@@ -49,15 +49,15 @@ El control en cascada digital (lazo interno de corriente y lazo externo de tensi
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    <img src="{{ '/assets/img/montaje-boost.jpeg' | relative_url }}" alt="Montaje físico en banco de pruebas" class="img-fluid rounded z-depth-1" />
+    <img src="{{ '/assets/montajeboost.jpeg' | relative_url }}" alt="Montaje físico en banco de pruebas" class="img-fluid rounded z-depth-1" />
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <img src="{{ '/assets/img/visualizacion-en-pantalla.jpeg' | relative_url }}" alt="Visualización en pantalla y telemetría" class="img-fluid rounded z-depth-1" />
+    <img src="{{ '/assets/visualizacionenpantalla.jpeg' | relative_url }}" alt="Visualización en pantalla y telemetría" class="img-fluid rounded z-depth-1" />
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <img src="{{ '/assets/img/imagen1.jpeg' | relative_url }}" alt="Pruebas experimentales del prototipo" class="img-fluid rounded z-depth-1" />
+    <img src="{{ '/assets/circuitosimulacion.jpeg' | relative_url }}" alt="Circuito y simulación del convertidor" class="img-fluid rounded z-depth-1" />
   </div>
 </div>
 <div class="caption">
-  Evidencias del montaje experimental, visualización en pantalla y ensayos del prototipo.
+  Evidencias del montaje experimental, visualización en pantalla y circuito/simulación del prototipo.
 </div>
