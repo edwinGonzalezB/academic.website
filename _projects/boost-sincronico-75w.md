@@ -2,7 +2,7 @@
 layout: page
 title: Boost Sincrónico 75W (12V to 36V) con Control en Doble Lazo
 description: Modelado en espacio de estados, control PI multirrata en ESP32 y validación experimental para acople de bus DC.
-img: assets/imganen.jpg
+img: assets/img/boost_converter_3d.png
 importance: 1
 category: Electrónica de Potencia y Control
 related_publications: false
@@ -31,4 +31,33 @@ El control en cascada digital (lazo interno de corriente y lazo externo de tensi
 
 ## 04 — Seguridad y Buenas Prácticas
 * Verificar polaridad y orientaciones antes de energizar, limitar tensión y corriente en pruebas de banco y cuidar las etapas de sensado, disparo y aislamiento.
-.
+
+
+## Diseño PCB y Validación Experimental
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/boost_converter_2d.png" title="Layout 2D de la PCB" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/boost_converter_3d.png" title="Modelo 3D de la PCB" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Izquierda: Diseño 2D y ruteo de potencia/control de la PCB. Derecha: Modelo 3D del convertidor DC-DC Boost sincrónico de 75 W.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/montaje-boost.jpeg" title="Montaje físico en banco de pruebas" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/visualizacion-en-pantalla.jpeg" title="Visualización en pantalla y telemetría" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/imagen1.jpeg" title="Pruebas experimentales del prototipo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Evidencias de implementación física, pruebas en laboratorio y visualización de señales/telemetría del prototipo.
+</div>
